@@ -16,9 +16,17 @@ structure looks like  ...see diagram below
 ## List of repositories
 
  CMPG 323 Overview- <28331869>
+ 
+ 
  CMPG 323 Project 2 -<28331869>
+ 
+ 
  CMPG 323 Project 3 -<28331869>
+ 
+ 
  CMPG 323 Project 4 -<28331869>
+ 
+ 
  CMPG 323 Project 5 -<28331869>
 
 
@@ -32,5 +40,9 @@ A .gitignore file is a plain text file where each line contains a pattern for fi
 
 ## References
 https://www.googlecloudcommunity.com/gc/Cloud-Product-Articles/Source-Control-for-API-Proxy-Development/ta-p/75620#:~:text=Branching%20Strategy,all%20the%20way%20to%20production.
+
+
 https://www.pluralsight.com/guides/how-to-use-gitignore-file
+
+
 https://spectralops.io/resources/how-to-choose-a-secret-scanning-solution-to-protect-credentials-in-your-code/
