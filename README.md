@@ -32,4 +32,4 @@ structure looks like  ...see diagram below
 
 ## Use of .gitgnore File
 
-## Credentials And Sensitive information
+## Credentials And Sensitive Information
