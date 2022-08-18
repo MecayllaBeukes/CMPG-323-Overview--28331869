@@ -46,3 +46,5 @@ https://www.pluralsight.com/guides/how-to-use-gitignore-file
 
 
 https://spectralops.io/resources/how-to-choose-a-secret-scanning-solution-to-protect-credentials-in-your-code/
+
+https://github.com/users/JacquiM/projects/16
