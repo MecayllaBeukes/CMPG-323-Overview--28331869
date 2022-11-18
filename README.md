@@ -7,7 +7,8 @@ The branching stategy that I will use for all my projects is GitHub Flow , as it
 
 ## Context Diagram
 
-/home/mecaylla/Downloads/contextDiagram.jpg
+file:///home/mecaylla/Downloads/contextDiagram.jpg![image](https://user-images.githubusercontent.com/110894098/202699374-3a33095e-b664-4705-8625-c30d914516c3.png)
+
 
 
 ## Project and Repository Structure
@@ -67,7 +68,7 @@ https://www.googlecloudcommunity.com/gc/Cloud-Product-Articles/Source-Control-fo
 
 7. Devchild. (2018, Sept 2). The gitflow workflow - in less than 5 mins. [Video]. YouTube https://youtu.be/1SXpE08hvGs
 
-## PROJECT 2 
+
 
 
 
