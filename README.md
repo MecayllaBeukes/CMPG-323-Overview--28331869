@@ -40,9 +40,11 @@ A .gitignore file is a plain text file where each line contains a pattern for fi
  
  Storing sensitive credentials for projects will be done as mentioned below :
 
-    I’ll utilize a .JSON file for project 2 and 3 API Development and Standards & Patterns.
-    In Project4 Testing & RPA, credentials will be stored in UiPath Orchestrator.
-    In Project5 Reporting, there will not be credentials that need to be stored.
+ 1. I’ll utilize a .JSON file for project 2 and 3 API Development and Standards & Patterns.
+    
+ 2.  In Project4 Testing & RPA, credentials will be stored in UiPath Orchestrator.
+    
+ 3. In Project5 Reporting, there will not be credentials that need to be stored.
 
 
 ## References
